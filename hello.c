@@ -8,7 +8,8 @@
 
 int main(int argc, char **argv) {
 
-printif("Sara Qudus\n");
+printf("Sara Qudus\n");
+printf("Civil Engineering\n");
 
 return 0;
 }
